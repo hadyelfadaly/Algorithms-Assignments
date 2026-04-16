@@ -29,7 +29,15 @@ Assignments/
 - Mohamed Amr Ahmed - [Github Profile](https://github.com/moharam1)
 - Omar Waleed ElSobky - [Github Profile](https://github.com/Omarsobky)
 
-### Features
+### Part A: Written Solutions (PDF)
+
+- Presents the analytical side of the assignment before coding.
+- Includes structured problem reasoning, algorithm breakdowns, and complexity-focused discussion.
+- Serves as the theoretical foundation for the implementations in Part B.
+
+### Part B: Code Implementation
+
+#### Features
 
 #### Task 1: Fibonacci Series
 
@@ -52,7 +60,13 @@ Assignments/
 - Priority queue implementation on top of heap behavior.
 - Heap sort functionality.
 
-### Run Task Files (Assignment 1)
+### Part C: Research Report (PDF)
+
+- Expands the assignment with research-oriented understanding beyond implementation details.
+- Summarizes key concepts, comparisons, and practical context related to the studied algorithms.
+- Connects the assignment topics to broader algorithmic applications and learning outcomes.
+
+### Run Task Files (Assignment 1 - Part B)
 
 ```bash
 cd "Assignment 1/Part B Code"

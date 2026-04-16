@@ -29,9 +29,9 @@ Assignments/
 
 ### Team Members
 
-- Hady Hassan El Fadaly - 20236113
-- Mohamed Amr Ahmed - 20236087
-- Omar Waleed ElSobky - 20237008
+- Hady Hassan El Fadaly - [Github Profile](https://github.com/hadyelfadaly)
+- Mohamed Amr Ahmed - [Github Profile](https://github.com/moharam1)
+- Omar Waleed ElSobky - [Github Profile](https://github.com/Omarsobky)
 
 ### Features
 
@@ -75,12 +75,11 @@ g++ "Task 3 (Heap, Priority Queue and Heap Sort).cpp" -o task3
 
 ### Team Members
 
-- Hady Hassan El Fadaly - 20236113
-- Mohamed Amr Ahmed - 20236087
-- Ziad Tarek El Marsafawy - 20236043
-- Ibrahim Wael El Noty - 20237016
-- Marwan Sameh El Sayed - 20235037
-
+- Hady Hassan El Fadaly - [Github Profile](https://github.com/hadyelfadaly)
+- Mohamed Amr Ahmed - [Github Profile](https://github.com/moharam1)
+- Ziad Tarek El Marsafawy - [Github Profile](https://github.com/ziad-91)
+- Ibrahim Wael El Noty - [Github Profile]()
+- Marwan Sameh El Sayed - [Github Profile](https://github.com/marwanmoafy)
 ### Part A: Data Structures
 
 - Player Table using double hashing.

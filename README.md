@@ -7,9 +7,6 @@ Algorithms coursework for Cairo University, Faculty of Computers and Artificial 
 ```text
 Assignments/
 |- Assignment 1/
-|  |- Assignment #1 - Part [A].pdf
-|  |- Assignment #1 - Part [B].pdf
-|  |- Assignment #1 - Part [C].pdf
 |  |- Part A Solution.pdf
 |  |- Part B Code/
 |  |  |- Task 1 (Fibonacci Series).cpp
@@ -21,7 +18,6 @@ Assignments/
 |  |- ArcadiaEngine.h
 |  |- ArcadiaEngine.cpp
 |  |- main_test_students.cpp
-|  |- TeamInfo.txt
 |  |- CMakeLists.txt
 ```
 

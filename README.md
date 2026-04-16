@@ -78,7 +78,7 @@ g++ "Task 3 (Heap, Priority Queue and Heap Sort).cpp" -o task3
 - Hady Hassan El Fadaly - [Github Profile](https://github.com/hadyelfadaly)
 - Mohamed Amr Ahmed - [Github Profile](https://github.com/moharam1)
 - Ziad Tarek El Marsafawy - [Github Profile](https://github.com/ziad-91)
-- Ibrahim Wael El Noty - [Github Profile]()
+- Ibrahim Wael El Noty - [Github Profile](https://github.com/ibrahimelnouty)
 - Marwan Sameh El Sayed - [Github Profile](https://github.com/marwanmoafy)
 ### Part A: Data Structures
 

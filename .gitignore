@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.idea/
+.vscode/
+*.iml
+
+# CMake and build directories
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+compile_commands.json
+build.ninja
+rules.ninja
+.ninja_deps
+.ninja_log
+Testing/
+
+# Compiled binaries and objects
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Logs and temporary outputs
+*.log
